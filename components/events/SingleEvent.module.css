@@ -1,14 +1,37 @@
 .singleEventBody{
-    width: 90%;
+    width: 35%;
     margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: rgb(223, 223, 223);
+    margin-bottom: 20px;
+    padding: 10px 0px;
+    border-radius: 12px;
 }
 .singleEventImage{
-    width: 50%;
+    width: 25%;
 }
 .singleEventInfo{
     width: 50%;
+    margin-left: 20px;
 }
+.eventTitle{
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.eventLocation{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 3px;
+  }

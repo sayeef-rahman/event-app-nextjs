@@ -1,0 +1,14 @@
+.singleEventBody{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(223, 223, 223);
+}
+.singleEventImage{
+    width: 50%;
+}
+.singleEventInfo{
+    width: 50%;
+}
